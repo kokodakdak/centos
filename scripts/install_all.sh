@@ -1,6 +1,6 @@
 #!/bin/sh
-
-mpv.sh
 nvdia.sh
-rmbeep.sh
 utility.sh
+code.sh
+mpv.sh
+rmbeep.sh
