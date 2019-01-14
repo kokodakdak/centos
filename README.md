@@ -6,3 +6,6 @@ After install Cent OS 7.x  you will need this scripts haahahahah
 
  - scripts : bash script가 모여있는 경로입니다. (Bash scripts are here!!)
  - python
+
+
+ [test](scripts/test.md)
