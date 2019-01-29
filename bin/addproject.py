@@ -12,7 +12,6 @@ for i in first:
 	if i == "asset":
 		for j in asset:
 			os.makedirs("/project/%s/%s/%s" %(project_name, i, j))
-		
 		continue
 	if i == "config":
 		for k in config:
