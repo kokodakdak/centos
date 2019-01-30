@@ -11,6 +11,7 @@ yum -y install tigervnc
 yum -y install filezilla
 yum -y install tree
 yum -y install pandoc
+yum -y install ImageMagick
 
 #ripgrep
 yum-config-manager --add-repo=https://copr.fedorainfracloud.org/coprs/carlwgeorge/ripgrep/repo/epel-7/carlwgeorge-ripgrep-epel-7.repo
