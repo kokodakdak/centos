@@ -10,3 +10,4 @@ fi
 cd /home/$USER/app/ffmpeg
 wget http://johnvansickle.com/ffmpeg/builds/ffmpeg-git-64bit-static.tar.xz
 tar xpvf ffmpeg-git-64bit-static.tar.xz --strip 1
+rm ffmpeg-git-64bit-static.tar.xz
