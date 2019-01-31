@@ -4,7 +4,7 @@ if [! -d "/home/$USER/app" ]; then
 	mkdir /home/$USER/app
 fi
 
-if [! -d"home/$USER/app/ffmpeg"]; then
+if [! -d "home/$USER/app/ffmpeg" ]; then
 	mkdir /home/$USER/app/ffmpeg
 fi
 cd /home/$USER/app/ffmpeg
