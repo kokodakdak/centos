@@ -5,4 +5,7 @@ code.sh
 djv.sh
 mpv.sh
 rmbeep.sh
+pip.sh
 trans.sh
+ffmpeg.sh
+handbrake.sh
