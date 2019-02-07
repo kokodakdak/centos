@@ -13,7 +13,7 @@ if [! -d "home/$USER/app"]then
 	mkdir /home/$USER/app
 fi
 
-cd cd ~/app
+cd cd /home/$USER/app
 git clone https://github.com/HandBrake/HandBrake.git
 cd HandBrake
 git tag --list | grep ^1\.1\.
