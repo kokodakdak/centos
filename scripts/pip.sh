@@ -6,3 +6,6 @@ python get-pip.py
 
 pip install --upgrade setuptools
 pip install pymediainfo
+pip install --user PySide2
+pip install --user numpyyum -y install glibc
+
