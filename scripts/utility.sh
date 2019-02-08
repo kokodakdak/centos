@@ -14,6 +14,7 @@ yum -y install pandoc
 yum -y install ImageMagick
 yum -y install mediainfo
 yum -y install gvim
+yum -y install glibc
 
 #ripgrep
 yum-config-manager --add-repo=https://copr.fedorainfracloud.org/coprs/carlwgeorge/ripgrep/repo/epel-7/carlwgeorge-ripgrep-epel-7.repo
