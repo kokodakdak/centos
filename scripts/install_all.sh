@@ -9,3 +9,4 @@ pip.sh
 trans.sh
 ffmpeg.sh
 handbrake.sh
+openimageio.sh
