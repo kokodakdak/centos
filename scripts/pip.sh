@@ -16,3 +16,6 @@ pip install --user xlwt
 pip install --user xlutils
 pip install --user xlutils
 pip install --user pillow
+pip install --user timecode
+pip install --user edl
+pip install --user opentimelineio
