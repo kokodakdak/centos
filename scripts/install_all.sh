@@ -12,6 +12,8 @@
 ./handbrake.sh
 ./openimageio.sh
 ./ocio_config.sh
+./gaffer.sh
+./blender.sh
 
 # gcc6.x를 이용해서 빌드한다.
 scl enable devtoolset-6 ./cmake.sh
